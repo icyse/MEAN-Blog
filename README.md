@@ -1,4 +1,6 @@
 # MEAN-BLOG
+Test CLA Assistant
+
 MEAN-BLOG is a blog project written in MEAN - MongoDB, ExpressJS, AngularJS, NodeJS.
 
 If you have a problem or have some good advice?Welcome to star and submit PR or submit a issue.❤
@@ -23,7 +25,7 @@ If you have a problem or have some good advice?Welcome to star and submit PR or 
 
     cd mean-blog
     npm install
-    
+
 ### 3. Database stuff
 
 	vi config.js
